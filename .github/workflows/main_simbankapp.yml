@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'SimBankApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_938476467BF444D0BDF770D04C927005 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_145BB36435FC4516A774F90DF13B6186 }}
           package: '*.war'
